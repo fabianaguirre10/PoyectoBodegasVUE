@@ -1,0 +1,4 @@
+{
+  "appService.defaultWebAppToDeploy": "/subscriptions/b97e27c7-e01b-470f-b2df-a6c9016e2c12/microsoft.web/sites/subscriptions/b97e27c7-e01b-470f-b2df-a6c9016e2c12/resourceGroups/Engine_service/providers/Microsoft.Web/sites/engineV2-pro",
+  "appService.deploySubpath": "."
+}
