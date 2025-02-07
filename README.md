@@ -1,2 +1,1 @@
-# enginev2-vue
-App web engine v2 en vue 2.x
+Proyecto para cargar productos en camiones que salen de la bodega
