@@ -34,7 +34,7 @@
                   </div>
                   <center>
                     <h2 type="INFORMACION" color="white" class="HeadText">
-                      Conviértete en Banquero del Barrio
+                      Conviértete en Banquero del Barrio 9
                     </h2>
                   </center>
 
